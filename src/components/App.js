@@ -12,7 +12,7 @@ const App = () => {
         <Link to="/about" >About</Link>
         <Routes>
           <Route path="/" element={<><h1>Welcome to my website!</h1></>} />
-          <Route path="/about" element={<><h1>About</h1><p>This is a simple react router program</p></>} />
+          <Route path="/about" element={<><h1>About</h1><p>This is a sample React Router program.</p></>} />
         </Routes>
     </div>
     </BrowserRouter>

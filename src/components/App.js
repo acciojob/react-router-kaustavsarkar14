@@ -5,6 +5,7 @@ import {BrowserRouter, Link, Routes, Route} from "react-router-dom"
 
 const App = () => {
   return (
+    
     <BrowserRouter>
     <div>
         {/* Do not remove the main div */}
